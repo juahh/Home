@@ -1,2 +1,2 @@
 # Home
-My own website
+My github page
